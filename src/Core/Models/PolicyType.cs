@@ -2,7 +2,7 @@
 using Newtonsoft.Json.Converters;
 using System;
 
-namespace TestRating
+namespace MyNewProject.src.Core.Models
 {
     [JsonConverter(typeof(StringEnumConverter))]
     public enum PolicyType

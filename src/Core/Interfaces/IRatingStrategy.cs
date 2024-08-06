@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TestRating;
+using MyNewProject.src.Core.Models;
 
-namespace MyNewProject
+namespace MyNewProject.src.Core.Interfaces
 {
     public interface IRatingStrategy
     {

@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TestRating;
 
-namespace MyNewProject
+namespace MyNewProject.src.Core.Interfaces
 {
-    public interface IPolicySource
+    public interface ILogger
     {
-        Policy GetPolicy();
+        void Log(string message);
     }
 }

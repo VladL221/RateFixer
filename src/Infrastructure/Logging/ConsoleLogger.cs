@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyNewProject.src.Core.Interfaces;
 
-namespace MyNewProject
+namespace MyNewProject.src.Infrastructure.Logging
 {
     public class ConsoleLogger : ILogger
     {

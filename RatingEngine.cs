@@ -1,4 +1,5 @@
-﻿using MyNewProject;
+﻿using MyNewProject.src.Core.Interfaces;
+using MyNewProject.src.Core.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 using System;

@@ -18,3 +18,4 @@ C:\Users\Lanox\Desktop\matala C#\new project\MyNewProject\obj\Debug\net8.0\MyNew
 C:\Users\Lanox\Desktop\matala C#\new project\MyNewProject\obj\Debug\net8.0\ref\MyNewProject.dll
 C:\Users\Lanox\Desktop\matala C#\new project\MyNewProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Lanox\Desktop\matala C#\new project\MyNewProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lanox\Desktop\matala C#\new project\MyNewProject\obj\Debug\net8.0\MyNewProject.sourcelink.json

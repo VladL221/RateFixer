@@ -1,5 +1,9 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using MyNewProject;
+using MyNewProject.src.Core.Interfaces;
+using MyNewProject.src.Core.Models;
+using MyNewProject.src.Infrastructure.Logging;
+using MyNewProject.src.Infrastructure.PolicySources;
+using MyNewProject.src.RatingStrategies;
 using System;
 
 namespace TestRating

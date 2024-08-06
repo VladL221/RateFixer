@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace TestRating
+namespace MyNewProject.src.Core.Models
 {
 
     public class Policy
