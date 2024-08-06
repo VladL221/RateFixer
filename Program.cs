@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using MyNewProject.src.Core;
 using MyNewProject.src.Core.Interfaces;
 using MyNewProject.src.Core.Models;
 using MyNewProject.src.Infrastructure.Logging;
