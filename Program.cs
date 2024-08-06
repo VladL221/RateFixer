@@ -2,9 +2,9 @@
 using MyNewProject.src.Core;
 using MyNewProject.src.Core.Interfaces;
 using MyNewProject.src.Core.Models;
+using MyNewProject.src.Core.Strategies.RatingStrategies;
 using MyNewProject.src.Infrastructure.Logging;
 using MyNewProject.src.Infrastructure.PolicySources;
-using MyNewProject.src.RatingStrategies;
 using System;
 
 namespace TestRating

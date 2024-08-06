@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MyNewProject.src.Core.Interfaces;
 using MyNewProject.src.Core.Models;
 
-namespace MyNewProject.src.RatingStrategies
+namespace MyNewProject.src.Core.Strategies.RatingStrategies
 {
     public class LifePolicyRatingStrategy : IRatingStrategy
     {
